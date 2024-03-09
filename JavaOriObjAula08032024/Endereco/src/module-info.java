@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Desktop
- *
- */
-module Endereco {
-}
