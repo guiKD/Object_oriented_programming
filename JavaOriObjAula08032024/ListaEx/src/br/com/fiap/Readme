@@ -1,0 +1,14 @@
+1) Crie uma classe que representa um Endereço. Não esqueça dos métodos acessores.
+Crie um método main e instancie 3 endereços: o seu, da Fiap e o da sua avó. Depois
+disso, imprima na tela algumas informações desses endereços.
+
+5) Uma classe SaldoBancario, adicione métodos para realizar débito, crédito e verificar
+o saldo. Note que, o saldo pode ficar negativo. Simule algumas operações de crédito
+e débito. Caso queira, use a classe Random e um comando de repetição para realizar
+a simulação.
+
+6) O dado é um elemento usado em diversos jogos de tabuleiro. Ele é um cubo onde
+cada uma das faces representa um número, normalmente, as faces são preenchidas
+com números de 1 a 6 sem repetição. Pensando que você vá usar o dado para um
+jogo de tabuleiro, quais são os atributos e métodos que um objeto Dado possui.
+Implemente a classe Dado e faça um método main para utilizá-la.
